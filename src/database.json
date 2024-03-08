@@ -1,6 +1,6 @@
 {
   "users": {
-    "923184070915@s.whatsapp.net": {
+    "923361501800@s.whatsapp.net": {
       "serialNumber": "0eae1af5145d445f4e7a69739aa2e971",
       "title": "Premium",
       "afkTime": -1,
@@ -11,14 +11,14 @@
       "limit": 1000,
       "totalLimit": 0
     },
-    "923184070915@s.whatsapp.net": {
+    "923477008403@s.whatsapp.net": {
       "serialNumber": "84a6d900b59ff9b86da982ae409f5973",
       "title": "Premium",
       "afkTime": -1,
       "badword": 0,
       "afkReason": "",
       "nick": "Oke",
-      "premium": false,
+      "premium": "true",
       "limit": 1000,
       "totalLimit": 0
     }
@@ -29,7 +29,7 @@
       "badword": false,
       "antiforeignnum": false,
       "antibot": false,
-      "antiviewonce": false,
+      "antiviewonce": true,
       "antivirtex": false,
       "antimedia": false,
       "antiimage": false,
@@ -84,24 +84,24 @@
     "math": []
   },
   "settings": {
-    "923184070915@s.whatsapp.net": {
+    "923120443386@s.whatsapp.net": {
       "totalhit": 49,
       "totalError": 0,
-      "online": false,
-      "autosticker": false,
+      "online": true,
+      "autosticker": true,
       "autobio": false,
-      "autoread": false,
+      "autoread": true,
       "autoblocknum": false,
       "onlyindia": false,
       "onlyindo": false,
       "onlygrub": false,
       "onlypc": false,
       "autorecordtype": false,
-      "autorecord": false,
-      "autotype": false,
+      "autorecord": true,
+      "autotype": true,
       "watermark": {
-        "packname": "Sticker By",
-        "author": "🦄드림 가이 Xeon\n\n+916909137213"
+        "packname": "SMALL",
+        "author": "BABLI🐥"
       },
       "about": {
         "bot": {
