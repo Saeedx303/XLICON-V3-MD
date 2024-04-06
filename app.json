@@ -8,12 +8,12 @@
   "stack": "container",
   "env": {
     "SUDO": {
-      "description": "923361501800",
+      "description": "Add Owwner Number Here",
       "required": true,
-      "value": "923477008403"
+      "value": "923184070915"
     },
     "SUDO_NAME": {
-      "description": "923120443386",
+      "description": "Add Your Name Here",
       "required": true,
       "value": "SᴀʟᴍᴀɴSᴇʀ"
     },
@@ -30,27 +30,27 @@
     "PREFIX": {
       "description": "Set Your Prefix Here",
       "required": true,
-      "value": °.°
+      "value": "."
     },
     "BOT_NAME": {
-      "description": "BABLI-MD",
+      "description": "Set Your Bot Name Here",
       "required": false,
-      "value": "BABLI_V3"
+      "value": "Xʟɪᴄᴏɴ_Mᴅ_V3"
     },
      "PACK_NAME": {
-      "description": "SMALL",
+      "description": "Enter Pack Name Here",
       "required": false,
-      "value": "SMALL"
+      "value": "𝐗𝐋𝐈𝐂𝐎𝐍-𝐕𝟑"
      },
      "AUTHER_NAME": {
-      "description": "BABLI🐥",
+      "description": "Enter Auther Name Here",
       "required": false,
-      "value": "BABLI🐥"
+      "value": "ＭＡＤＥ   ＢＹ   ＳＡＬＭＡＮ"
      },
      "GL_VIP": {
       "description": "Enter Premium Members Numbers [ Each Saperated By Comma ]",
       "required": false,
-      "value": "923120443386,923477008403"
+      "value": "923184070915,923264476886"
      },
     "WELCOME_MSG": {
       "description": "Welcome Message True/False",
@@ -60,7 +60,7 @@
     "MENU_DESIGN": {
       "description": "Choose Any Style v1 => v8",
       "required": false,
-      "value": "v5"
+      "value": "v2"
      },
     "AUTO_STATUS_SEEN": {
       "description": "Auto Status Seen True/False",
@@ -88,4 +88,3 @@
     }
   ]
 }
-
